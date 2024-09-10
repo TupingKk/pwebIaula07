@@ -1,0 +1,54 @@
+.titulo{
+    color: rgb(43, 87, 207);
+}
+
+.imagem{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.imagem2{
+    text-align: center;
+}  
+.conteudo{
+    font-size: 14px;
+    color: crimson;
+    background-color: aqua;
+    border: 5px solid red;
+
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.conteudo2{
+    font-size: 20px;
+    color: blue;
+    background-color: bisque;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: blueviolet;
+
+}
+
+.conteudo3{
+    font-size: 25px;
+    color: rgb(41, 184, 101);
+    background-color: rgb(182, 140, 90);
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-top: 15px ;
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(172, 26, 140);
+
+}
+
+.linha{
+    display: flex;
+    justify-content: center;
+}
